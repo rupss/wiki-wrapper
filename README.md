@@ -1,3 +1,1 @@
-wiki-wrapper
-
-Writing a Clojure wrapper for the MediaWiki API
+Playing with the MediaWiki API.
